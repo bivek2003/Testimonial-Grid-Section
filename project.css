@@ -1,0 +1,284 @@
+html{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: Barlow Semi Condensed, sans-serif;
+    font-size: 13px;
+}
+body{
+    background-color: #cfcfcf;
+}
+#main{
+    padding: 3% 1%;
+}
+.attribution{
+    position: absolute;
+    right: 10%;
+}
+
+.testi-1{
+    position: relative;
+    padding: 6px 30px 10px 30px;
+    border-radius: 8px 8px;
+    color: white;
+    background-color: #7541c8;
+    margin-bottom: 16px;
+    box-shadow: 0px 0px 11px -1px rgba(0,0,0,0.69);
+}
+.testi-2{
+    border-radius: 8px 8px;
+    padding: 6px 28px 8px 28px;
+    color: white;
+    background-color: #48556a;
+    margin-bottom: 16px;
+    box-shadow: 0px 0px 11px -1px rgba(0,0,0,0.69);
+}
+.testi-3{
+    padding: 6px 28px 8px 28px;
+    border-radius: 8px 8px;
+    box-shadow: 0px 0px 11px -1px rgba(0,0,0,0.69);
+    background-color: white;
+    margin-bottom: 20px;
+}
+.testi-4{
+    border-radius: 8px 8px;
+    padding:6px 30px 10px 30px;
+    box-shadow: 0px 0px 11px -1px rgba(0,0,0,0.69);
+    color: white;
+    background-color: #19212e;
+    margin-bottom: 20px;
+}
+.testi-5{
+    border-radius: 8px 8px;
+    padding: 6px 30px 10px 30px;
+    box-shadow: 0px 0px 11px -1px rgba(0,0,0,0.69);
+    background-color: white;
+    margin-bottom: 20px;
+}
+#i1{
+    font-size: 0.96rem;
+    opacity: 0.73;
+}
+#i2{
+    font-size: 0.78rem;
+    opacity: 0.4;
+}
+.image1 > img{
+    border-radius: 50%;
+   width: 24px;
+   height:24px;
+    border: 1px solid white;
+    margin-right: 3%;
+}
+.svg2{
+    position: absolute;
+    right: 50px;
+}
+.image1{
+    margin-top: 20px;
+    display: flex;
+}
+#sub{
+    align-self: center;
+    padding-left: 4px;
+}
+#sub>p{
+    margin:0;
+}
+#t1{
+    font-weight: 100;
+    font-size: 1.2rem;
+    opacity: 0.8;
+}
+#t2{
+    font-weight: 100;
+    font-size: 0.78rem;
+    opacity: 0.5;
+}
+#d3{
+    font-weight: 100;
+    font-size: 1.2rem;
+    opacity: 0.8;
+}
+#d4{
+    font-weight: 100;
+    font-size: 0.78rem;
+    opacity: 0.5;
+}
+#i7{
+    font-size: 0.95rem;
+    opacity: 0.73;
+}
+#i8{
+    font-size: 0.78rem;
+    opacity: 0.4;
+}
+.image4 > img{
+    border-radius: 50%;
+    width: 24px;
+    height: 24px;
+    border: 1px solid white;
+    margin-right: 3%;
+}
+.image4{
+    margin-top: 20px;
+    display: flex;
+}
+#sub4{
+    align-self: center;
+    padding-left: 4px;
+}
+#sub4>p{
+    margin:0;
+}
+#t3{
+    font-size: 1.3rem;
+    opacity: 0.8;
+}
+#t4{
+    font-size: 0.82rem;
+    opacity: 0.4;
+}
+.image2 > img{
+    border-radius: 50%;
+    width: 24px;
+    height: 24px;
+    border: 1px solid white;
+    margin-right: 3%;
+}
+.image2{
+    margin-top: 20px;
+    display: flex;
+}
+#sub2{
+    align-self: center;
+    padding-left: 4px;
+}
+#sub2>p{
+    margin:0;
+}
+#i3{
+    font-size: 0.96rem;
+    opacity: 0.73;
+}
+#i4{
+    font-size: 0.78rem;
+    opacity: 0.4;
+}
+.image3 > img{
+    border-radius: 50%;
+    width: 24px;
+    height: 24px;
+    border: 1px solid white;
+    margin-right: 3%;
+}
+.image3{
+    margin-top: 20px;
+    display: flex;
+}
+#sub3{
+    padding-left: 4px;
+    align-self: center;
+}
+#sub3>p{
+    margin:0;
+}
+#i5{
+    font-size: 0.96rem;
+    opacity: 0.73;
+}
+#i6{
+    font-size: 0.78rem;
+    opacity: 0.4;
+}
+#d1{
+    font-size: 1.35rem;
+    font-weight: bold;
+    opacity: 0.75;
+}
+#d2{
+    font-size: 0.83rem;
+    opacity: 0.4;
+}
+.image5 > img{
+    border-radius: 50%;
+    width: 24px;
+    height: 24px;
+    border: 1px solid white;
+    margin-right: 3%;
+}
+.image5{
+    margin-top: 20px;
+    display: flex;
+}
+#sub5{
+    padding-left: 4px;
+    align-self: center;
+}
+#sub5>p{
+    margin:0;
+}
+#i9{
+    font-size: 0.96rem;
+    opacity: 0.73;
+    font-weight: lighter;
+}
+#i10{
+    font-size: 0.78rem;
+    font-weight: lighter;
+    opacity: 0.4;
+}
+#l1{
+    font-size: 1.35rem;
+    font-weight: bold;
+    opacity: 0.7;
+}
+#l2{
+    font-size: 0.89rem;
+    opacity: 0.5;
+}
+
+@media(min-width: 576px){
+    body{
+        height: 100vh;
+        align-items: center;
+        justify-content: center;
+    }
+    body, #main, .left, #top, #down{
+        display: flex;
+    }
+    #main{
+        display: flex;
+        max-width: 900px;
+    }
+    .testi-5{
+        flex-basis: 20%;
+    }
+    .left{
+        flex-basis: 80%;
+        display: flex;
+        flex-direction: column;
+        margin-right: 20px;
+    }
+    .testi-1{
+        flex-basis: 71%;
+        margin-right: 20px;
+    }
+    .testi-2{
+        flex-basis: 29%;
+    }
+    .testi-3{
+        flex-basis: 29%;
+    }
+    .testi-4{
+        flex-basis: 71%;
+        margin-left: 20px;
+    }
+    .attribution{
+        position: absolute;
+        bottom: 0%;
+        top: 95%;
+        right: 40%;
+    }
+    
+}
