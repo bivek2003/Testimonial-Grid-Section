@@ -250,7 +250,7 @@ body{
     #main{
         max-height: fit-content;
         display: flex;
-        max-width: 1200px;
+        max-width: 924px;
     }
     .testi-5{
         flex-basis: 20%;
